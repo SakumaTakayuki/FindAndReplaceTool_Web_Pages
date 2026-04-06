@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "FindAndReplaceTool_Web",
   "resources": {
-    "hash": "sha256-89do84j9W2G5JDXWkddu5lC0CEPo3MXPEdSCkKIvIy0=",
+    "hash": "sha256-GeG5KLHJNsd8OdFYOwEP6vEhzkzK8aVqhBwk1DdjgJ0=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-A16ka545FHaB+QXjyJ4exXh7XpBAAIFnX8YkC4xAng8="
     },
@@ -85,7 +85,7 @@
       "System.wasm": "sha256-25KTxVbx+rD8S9iyUye7jmbj1e4TZ5Ca+elup4oegJA=",
       "netstandard.wasm": "sha256-rn6bA+M8/tLIe3A52rFSjO63NOWVgDA03DH8REnudx0=",
       "System.Private.CoreLib.wasm": "sha256-tpHSjRpeRFmdIlQNXsiBMkaWf4TDyZmrNIoVhVbkwqw=",
-      "FindAndReplaceTool_Web.wasm": "sha256-pakk4Ew+GKMkt9X3JiXjoxPwTqkCOhviCijK0h+yL54="
+      "FindAndReplaceTool_Web.wasm": "sha256-nkrbv6GtZhIFsIM/Yl6pd8EZgmBL8p5CdPXgS9OnaTw="
     }
   },
   "cacheBootResources": true,
